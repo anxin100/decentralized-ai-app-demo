@@ -21,7 +21,7 @@ import {
 	computed
 } from 'vue';
 import { useRouter, useRoute } from 'vue-router'
-import { User } from 'aonweb11'
+import { User } from 'aonweb'
 
 import bus from '../eventBus.js';
 import { showToast, showLoadingToast, closeToast } from 'vant';
