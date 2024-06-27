@@ -74,7 +74,7 @@ import { ref, onMounted } from 'vue';
 import { showToast, showLoadingToast, closeToast } from 'vant';
 import { useRouter } from 'vue-router'
 
-import { AI, AIOptions, User } from 'aonweb'
+import { AI, AIOptions, User } from 'aonweb11'
 import { getTemplate } from '../lib/getTemplate'
 import { useImageStore } from '@/store/imageStore';
 

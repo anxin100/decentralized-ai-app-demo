@@ -37,7 +37,7 @@ import {
 	onMounted
 } from 'vue';
 import { useRouter } from 'vue-router'
-import { Options, User, detectEthereumProvider } from 'aonweb'
+import { Options, User, detectEthereumProvider } from 'aonweb11'
 import { showToast, showLoadingToast, closeToast } from 'vant';
 import bus from '../eventBus.js';
 
